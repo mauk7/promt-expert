@@ -4,13 +4,15 @@
     "title": "Portrait",
     "prompt": "Ultra realistic portrait of a man in dramatic lighting, 85mm lens look, sharp focus.",
     "category": "Portrait",
-    "image": "https://raw.githubusercontent.com/mauk7/promt-expert/refs/heads/main/data/assets/1.png"
+    "image": "https://raw.githubusercontent.com/mauk7/promt-expert/refs/heads/main/data/assets/1.png",
+    "tags": ["coffee","tea","cappicino"]
   },
   {
     "id": "2",
     "title": "Landscape",
     "prompt": "A surreal fantasy world with glowing trees, mountains floating in mist, inspired by Avatar.",
     "category": "Landscape",
-    "image": "https://raw.githubusercontent.com/mauk7/promt-expert/refs/heads/main/data/assets/2.png"
+    "image": "https://raw.githubusercontent.com/mauk7/promt-expert/refs/heads/main/data/assets/2.png",
+    "tags": ["weather","nature","mountains"]
   }
 ]
