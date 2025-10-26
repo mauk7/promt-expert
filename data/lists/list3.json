@@ -1,0 +1,34 @@
+[
+  {
+    "id": "11",
+    "title": "Architectural Exterior",
+    "prompt": "Modern glass building at golden hour, strong perspective lines and reflective surfaces.",
+    "category": "Architecture",
+    "image": "https://raw.githubusercontent.com/mauk7/promt-expert/refs/heads/main/data/assets/1.png",
+    "tags": ["building", "modern", "perspective"]
+  },
+  {
+    "id": "12",
+    "title": "Underwater Scene",
+    "prompt": "Sunbeams through turquoise water illuminating a coral reef teeming with life.",
+    "category": "Nature",
+    "image": "https://raw.githubusercontent.com/mauk7/promt-expert/refs/heads/main/data/assets/3.jpeg",
+    "tags": ["ocean", "coral", "light"]
+  },
+  {
+    "id": "13",
+    "title": "Dreamscape",
+    "prompt": "Soft pastel dreamscape with floating islands and drifting lanterns, ethereal mood.",
+    "category": "Fantasy",
+    "image": "https://raw.githubusercontent.com/mauk7/promt-expert/refs/heads/main/data/assets/4.jpeg",
+    "tags": ["dream", "soft", "ethereal"]
+  },
+  {
+    "id": "14",
+    "title": "Product Mockup",
+    "prompt": "Clean product mockup of a smartphone on a marble table, studio lighting, subtle shadows.",
+    "category": "Commercial",
+    "image": "https://raw.githubusercontent.com/mauk7/promt-expert/refs/heads/main/data/assets/5.jpeg",
+    "tags": ["product", "mockup", "studio"]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "6",
+    "title": "Vintage Poster",
+    "prompt": "Retro travel poster design for a tropical island, bold flat colors and halftone texture.",
+    "category": "Design",
+    "image": "https://raw.githubusercontent.com/mauk7/promt-expert/refs/heads/main/data/assets/3.jpeg",
+    "tags": ["retro", "poster", "travel"]
+  },
+  {
+    "id": "7",
+    "title": "Macro Insect",
+    "prompt": "Extreme macro of a dragonfly wing with intricate patterns, studio lighting, ultra sharp.",
+    "category": "Macro",
+    "image": "https://raw.githubusercontent.com/mauk7/promt-expert/refs/heads/main/data/assets/5.jpeg",
+    "tags": ["insect", "macro", "detail"]
+  },
+  {
+    "id": "8",
+    "title": "Abstract Geometry",
+    "prompt": "Generative abstract composition of colorful geometric shapes with depth-of-field blur.",
+    "category": "Abstract",
+    "image": "https://raw.githubusercontent.com/mauk7/promt-expert/refs/heads/main/data/assets/4.jpeg",
+    "tags": ["shapes", "color", "composition"]
+  },
+  {
+    "id": "9",
+    "title": "Food Closeup",
+    "prompt": "Mouth-watering closeup of gourmet burger with shallow depth of field and warm lighting.",
+    "category": "Food",
+    "image": "https://raw.githubusercontent.com/mauk7/promt-expert/refs/heads/main/data/assets/2.png",
+    "tags": ["food", "gourmet", "closeup"]
+  },
+  {
+    "id": "10",
+    "title": "Character Concept",
+    "prompt": "Fantasy warrior concept art, dynamic pose, detailed armor and atmospheric rim light.",
+    "category": "Concept Art",
+    "image": "https://raw.githubusercontent.com/mauk7/promt-expert/refs/heads/main/data/assets/6.webp",
+    "tags": ["character", "fantasy", "armor"]
+  }
+]
