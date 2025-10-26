@@ -1,1 +1,5 @@
-[]
+[
+  "https://raw.githubusercontent.com/mauk7/promt-expert/refs/heads/main/data/lists/list1.json",
+  "https://raw.githubusercontent.com/mauk7/promt-expert/refs/heads/main/data/lists/list2.json",
+  "https://raw.githubusercontent.com/mauk7/promt-expert/refs/heads/main/data/lists/list3.json"
+]
