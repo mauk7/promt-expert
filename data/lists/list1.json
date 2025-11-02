@@ -4,7 +4,7 @@
     "title": "Character Concept",
     "prompt": "Fantasy warrior concept art, dynamic pose, detailed armor and atmospheric rim light.",
     "category": "Concept Art",
-    "image": "https://raw.githubusercontent.com/mauk7/promt-expert/refs/heads/main/data/assets/6.webp",
+    "image": "https://raw.githubusercontent.com/mauk7/promt-expert/refs/heads/main/data/assets/1.jpg",
     "tags": ["character", "fantasy", "armor"]
   },
   {
@@ -12,7 +12,7 @@
     "title": "Landscape",
     "prompt": "A surreal fantasy world with glowing trees, mountains floating in mist, inspired by Avatar.",
     "category": "Landscape",
-    "image": "https://raw.githubusercontent.com/mauk7/promt-expert/refs/heads/main/data/assets/2.png",
+    "image": "https://raw.githubusercontent.com/mauk7/promt-expert/refs/heads/main/data/assets/2.jpg",
     "tags": ["weather", "nature", "mountains"]
   },
   {
@@ -28,7 +28,7 @@
     "title": "Studio Still Life",
     "prompt": "Minimalist still life with ceramic vase and single flower, soft natural window light, high detail.",
     "category": "Still Life",
-    "image": "https://raw.githubusercontent.com/mauk7/promt-expert/refs/heads/main/data/assets/5.jpeg",
+    "image": "https://raw.githubusercontent.com/mauk7/promt-expert/refs/heads/main/data/assets/4.jpg",
     "tags": ["minimal", "objects", "composition"]
   },
   {
@@ -36,7 +36,31 @@
     "title": "Epic Space",
     "prompt": "A vast nebula with vivid colors and a ringed planet in foreground, hyper-detailed space scene.",
     "category": "Space",
-    "image": "https://raw.githubusercontent.com/mauk7/promt-expert/refs/heads/main/data/assets/4.jpeg",
+    "image": "https://raw.githubusercontent.com/mauk7/promt-expert/refs/heads/main/data/assets/5.jpeg",
     "tags": ["stars", "nebula", "planet"]
+  },
+  {
+    "id": "6",
+    "title": "Character Concept",
+    "prompt": "Fantasy warrior concept art, dynamic pose, detailed armor and atmospheric rim light.",
+    "category": "Concept Art",
+    "image": "https://raw.githubusercontent.com/mauk7/promt-expert/refs/heads/main/data/assets/6.webp",
+    "tags": ["character", "fantasy", "armor"]
+  },
+  {
+    "id": "7",
+    "title": "Landscape",
+    "prompt": "A surreal fantasy world with glowing trees, mountains floating in mist, inspired by Avatar.",
+    "category": "Landscape",
+    "image": "https://raw.githubusercontent.com/mauk7/promt-expert/refs/heads/main/data/assets/7.jpg",
+    "tags": ["weather", "nature", "mountains"]
+  },
+  {
+    "id": "8",
+    "title": "Cyberpunk City",
+    "prompt": "Nighttime cyberpunk street scene, neon reflections on wet asphalt, cinematic wide shot.",
+    "category": "Urban",
+    "image": "https://raw.githubusercontent.com/mauk7/promt-expert/refs/heads/main/data/assets/8.jpg",
+    "tags": ["neon", "city", "rain"]
   }
 ]
