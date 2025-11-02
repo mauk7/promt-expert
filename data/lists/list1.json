@@ -1,11 +1,11 @@
 [
   {
     "id": "1",
-    "title": "Portrait",
-    "prompt": "Ultra realistic portrait of a man in dramatic lighting, 85mm lens look, sharp focus.",
-    "category": "Portrait",
-    "image": "https://raw.githubusercontent.com/mauk7/promt-expert/refs/heads/main/data/assets/1.png",
-    "tags": ["coffee", "tea", "cappicino"]
+    "title": "Character Concept",
+    "prompt": "Fantasy warrior concept art, dynamic pose, detailed armor and atmospheric rim light.",
+    "category": "Concept Art",
+    "image": "https://raw.githubusercontent.com/mauk7/promt-expert/refs/heads/main/data/assets/6.webp",
+    "tags": ["character", "fantasy", "armor"]
   },
   {
     "id": "2",
