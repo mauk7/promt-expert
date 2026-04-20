@@ -1,0 +1,88 @@
+{
+  "page": 2,
+  "hasNext": true,
+  "nextPage": "page-3.json",
+  "data": [
+    {
+      "id": "sci_002",
+      "title": "Martian Colony Sunset",
+      "prompt": "A sprawling Mars colony at sunset, dome habitats and solar farms spread across the rusty landscape, twin moons visible in the dusty pink sky, astronauts in spacesuits tending to hydroponic greenhouses, photorealistic CGI, epic wide establishing shot, warm orange and purple hues",
+      "category": "sci-fi",
+      "tags": ["mars", "sci-fi", "colony", "space", "sunset"],
+      "isTrending": true,
+      "preview": "https://images.unsplash.com/photo-1614730321146-b6fa6a46bcb4?w=800"
+    },
+    {
+      "id": "prt_003",
+      "title": "Dust Storm Desert Warrior",
+      "prompt": "A fierce desert warrior woman wrapped in tattered linen robes standing against an incoming sandstorm wall, dramatic side lighting, grit and sand particles in the air, battle-worn face, intense amber eyes, cinematic color grade, photorealistic skin detail, National Geographic style",
+      "category": "portrait",
+      "tags": ["portrait", "desert", "warrior", "storm", "cinematic"],
+      "isTrending": true,
+      "preview": "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=800"
+    },
+    {
+      "id": "arc_002",
+      "title": "Floating Sky Temples",
+      "prompt": "Floating ancient stone temples suspended among clouds above a misty valley, waterfalls cascading off the edges into the void below, lush tropical vegetation growing from cracked stonework, soft morning light, epic fantasy environment, ultra-detailed concept art, Studio Ghibli influence",
+      "category": "architecture",
+      "tags": ["fantasy", "temples", "floating", "clouds", "ancient"],
+      "isTrending": false,
+      "preview": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800"
+    },
+    {
+      "id": "nat_002",
+      "title": "Aurora Borealis Cabin",
+      "prompt": "A cozy timber cabin glowing warmly from within, set in a snow-covered Nordic landscape under a vivid aurora borealis display of green and violet ribbons across the night sky, perfect mirror reflection in a frozen lake, long exposure photography style, 8K ultra detail",
+      "category": "nature",
+      "tags": ["aurora", "cabin", "nordic", "night", "winter"],
+      "isTrending": true,
+      "preview": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=800"
+    },
+    {
+      "id": "fnt_003",
+      "title": "Clockwork Mage",
+      "prompt": "A steampunk mage in an elaborate brass and leather coat adorned with clockwork gears and glowing vials, casting an arcane spell that manifests as golden mechanical fractals in the air, Victorian-era cobblestone city background at dusk, intricate detail, fantasy illustration style",
+      "category": "fantasy",
+      "tags": ["steampunk", "mage", "fantasy", "clockwork", "victorian"],
+      "isTrending": false,
+      "preview": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800"
+    },
+    {
+      "id": "lfs_003",
+      "title": "Parisian Café Morning",
+      "prompt": "A stylish woman in a caramel-colored wool coat sitting at a classic Parisian sidewalk café table, croissant and café au lait, soft diffused morning light through overcast skies, authentic bistro chairs, shallow depth of field, Leica M10 film aesthetic, editorial travel photography",
+      "category": "lifestyle",
+      "tags": ["paris", "café", "lifestyle", "travel", "morning"],
+      "isTrending": false,
+      "preview": "https://images.unsplash.com/photo-1514190051997-0f6f39ca5cde?w=800"
+    },
+    {
+      "id": "prt_004",
+      "title": "Ink and Water Portrait",
+      "prompt": "An abstract artistic portrait of a woman's face dissolving into swirling ink drops in water, hyper-detailed droplet physics, deep navy and emerald ink clouds dispersing in slow motion, studio white background, macro photography, conceptual fine art, elegant and mysterious mood",
+      "category": "portrait",
+      "tags": ["abstract", "ink", "water", "artistic", "macro"],
+      "isTrending": true,
+      "preview": "https://images.unsplash.com/photo-1542038784456-1ea8e935640e?w=800"
+    },
+    {
+      "id": "sci_003",
+      "title": "AI Consciousness Core",
+      "prompt": "A translucent spherical AI core suspended in a dark server room, thousands of glowing neural pathway lines pulsing outward like a luminescent brain, deep blue and cyan hues, holographic data streams orbiting the sphere, cinematic sci-fi concept art, abstract digital realism",
+      "category": "sci-fi",
+      "tags": ["AI", "sci-fi", "neural", "abstract", "technology"],
+      "isTrending": true,
+      "preview": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800"
+    },
+    {
+      "id": "nat_003",
+      "title": "Bioluminescent Beach",
+      "prompt": "A midnight tropical beach with vivid bioluminescent blue waves crashing on dark sand, dense jungle silhouette against a star-filled sky, barefoot footprints glowing faintly in the wet sand, long exposure photography, teal and indigo palette, ethereal and otherworldly atmosphere",
+      "category": "nature",
+      "tags": ["bioluminescent", "beach", "night", "ocean", "tropical"],
+      "isTrending": false,
+      "preview": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?w=800"
+    }
+  ]
+}

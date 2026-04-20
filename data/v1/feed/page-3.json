@@ -1,0 +1,79 @@
+{
+  "page": 3,
+  "hasNext": false,
+  "nextPage": null,
+  "data": [
+    {
+      "id": "arc_003",
+      "title": "Underground Mushroom Market",
+      "prompt": "A bustling underground fantasy market carved into massive glowing mushroom caverns, bioluminescent fungi lighting dozens of merchant stalls selling strange goods, gnomes and hobbits browsing wares, intricate stalactite ceiling, warm amber lantern glow, detailed environment concept art",
+      "category": "fantasy",
+      "tags": ["fantasy", "underground", "market", "mushroom", "bioluminescent"],
+      "isTrending": true,
+      "preview": "https://images.unsplash.com/photo-1518020382113-a7e8fc38eac9?w=800"
+    },
+    {
+      "id": "prt_005",
+      "title": "Samurai in Cherry Blossom",
+      "prompt": "A lone samurai in ornate black and gold lacquered armor standing on a stone bridge over a koi pond, cherry blossom petals falling all around, soft pink and white bokeh, misty mountain background at dusk, photorealistic, hyper-detailed armor engraving, cinematic Japanese aesthetic",
+      "category": "portrait",
+      "tags": ["samurai", "japan", "cherry blossom", "warrior", "cinematic"],
+      "isTrending": true,
+      "preview": "https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=800"
+    },
+    {
+      "id": "lfs_004",
+      "title": "Coastal Cliffside Villa",
+      "prompt": "A luxury whitewashed villa perched on a dramatic Amalfi coast cliff at sunset, terracotta pots of bougainvillea, infinity pool overlooking the shimmering Tyrrhenian sea, long shadows from golden hour light, drone aerial perspective, travel & architecture photography, vivid Mediterranean colors",
+      "category": "lifestyle",
+      "tags": ["luxury", "villa", "amalfi", "coastal", "sunset"],
+      "isTrending": false,
+      "preview": "https://images.unsplash.com/photo-1555881400-74d7acaacd8b?w=800"
+    },
+    {
+      "id": "sci_004",
+      "title": "Neon Megacity Rain",
+      "prompt": "A vast futuristic megacity skyline at night in heavy rain, thousands of illuminated skyscrapers receding into low cloud cover, flying vehicles leaving light trails, massive holographic ads on building facades, viewed from a rain-slicked rooftop, ultra-wide shot, cyberpunk aesthetic, cinematic 8K",
+      "category": "sci-fi",
+      "tags": ["megacity", "cyberpunk", "rain", "futuristic", "night"],
+      "isTrending": true,
+      "preview": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=800"
+    },
+    {
+      "id": "nat_004",
+      "title": "Volcanic Lightning Storm",
+      "prompt": "A massive volcanic eruption at night with a towering ash plume pierced by dramatic volcanic lightning bolts, rivers of glowing orange lava flowing down the mountainside, long exposure photography, deep purple storm clouds illuminated from within, raw elemental power, National Geographic quality",
+      "category": "nature",
+      "tags": ["volcano", "lightning", "eruption", "nature", "dramatic"],
+      "isTrending": false,
+      "preview": "https://images.unsplash.com/photo-1489562853045-ae7793c33af0?w=800"
+    },
+    {
+      "id": "fnt_004",
+      "title": "Witch's Enchanted Library",
+      "prompt": "An ancient witch's circular library tower filled floor to ceiling with glowing spell books, floating candles, a raven perched on a skull, potion bottles in jewel tones catching warm candlelight, a spiral staircase disappearing into the darkness above, cozy dark academia aesthetic, ultra-detailed",
+      "category": "fantasy",
+      "tags": ["witch", "library", "fantasy", "dark academia", "magic"],
+      "isTrending": false,
+      "preview": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800"
+    },
+    {
+      "id": "arc_004",
+      "title": "Glass Desert Museum",
+      "prompt": "A futuristic museum building made entirely of angular glass and polished white concrete rising from a flat desert landscape, casting dramatic geometric shadows, minimal landscaping of desert grasses and white gravel, overcast diffused sky, architectural photography, Zaha Hadid inspired",
+      "category": "architecture",
+      "tags": ["architecture", "museum", "desert", "futuristic", "minimal"],
+      "isTrending": false,
+      "preview": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=800"
+    },
+    {
+      "id": "prt_006",
+      "title": "Baroque Oil Painting Style",
+      "prompt": "A hyper-realistic digital portrait painted in the style of a Dutch Golden Age Baroque oil painting, a young man in rich velvet doublet with lace collar, dramatic Rembrandt lighting against deep shadow background, cracked paint texture overlay, warm amber and brown palette, museum quality",
+      "category": "portrait",
+      "tags": ["baroque", "oil painting", "portrait", "renaissance", "classical"],
+      "isTrending": true,
+      "preview": "https://images.unsplash.com/photo-1578301978693-85fa9c0320b9?w=800"
+    }
+  ]
+}

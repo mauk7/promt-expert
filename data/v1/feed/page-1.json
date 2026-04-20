@@ -1,0 +1,94 @@
+{
+  "page": 1,
+  "hasNext": true,
+  "nextPage": "page-2.json",
+  "data": [
+    {
+      "id": "prt_001",
+      "title": "Golden Hour Portrait",
+      "prompt": "A cinematic close-up portrait of a young woman with flowing auburn hair, soft golden hour lighting, shallow depth of field, bokeh background of blurred city lights, shot on 85mm f/1.4 lens, photorealistic, ultra-detailed skin texture, warm tones, editorial fashion photography style",
+      "category": "portrait",
+      "tags": ["portrait", "golden hour", "cinematic", "editorial", "woman"],
+      "isTrending": true,
+      "preview": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=800"
+    },
+    {
+      "id": "fnt_001",
+      "title": "Ancient Dragon Rider",
+      "prompt": "An epic fantasy scene of an armored warrior riding a massive obsidian dragon through stormy clouds, dramatic lightning in the background, hyper-detailed scales, glowing red dragon eyes, cinematic lighting, 8K resolution, digital oil painting, inspired by classical fantasy art",
+      "category": "fantasy",
+      "tags": ["fantasy", "dragon", "warrior", "epic", "storm"],
+      "isTrending": true,
+      "preview": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=800"
+    },
+    {
+      "id": "lfs_001",
+      "title": "Tokyo Neon Streets",
+      "prompt": "A lone figure in a trench coat walking through rain-soaked Tokyo backstreets at night, vibrant neon reflections on wet asphalt, glowing izakaya signs in Japanese kanji, cinematic cyberpunk atmosphere, volumetric fog, 35mm film grain, inspired by Blade Runner",
+      "category": "lifestyle",
+      "tags": ["cyberpunk", "tokyo", "neon", "rain", "night"],
+      "isTrending": false,
+      "preview": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=800"
+    },
+    {
+      "id": "nat_001",
+      "title": "Mystical Forest Dawn",
+      "prompt": "An enchanted ancient forest at dawn, towering moss-covered trees with twisted roots, shafts of golden light piercing through the canopy, floating luminescent spores, a narrow stone path leading into the mist, ultra-detailed foliage, painterly realism, atmospheric depth",
+      "category": "nature",
+      "tags": ["forest", "mystical", "dawn", "nature", "atmospheric"],
+      "isTrending": false,
+      "preview": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=800"
+    },
+    {
+      "id": "sci_001",
+      "title": "Orbital Space Station",
+      "prompt": "A massive futuristic space station in low Earth orbit, solar panel arrays gleaming against the curvature of Earth below, stars and the Milky Way visible in deep space, photorealistic render, hard surface modeling detail, cinematic composition, inspired by 2001: A Space Odyssey",
+      "category": "sci-fi",
+      "tags": ["space", "sci-fi", "futuristic", "orbital", "station"],
+      "isTrending": true,
+      "preview": "https://images.unsplash.com/photo-1446941611757-91d2c3bd3d45?w=800"
+    },
+    {
+      "id": "arc_001",
+      "title": "Brutalist Cathedral",
+      "prompt": "Interior of a brutalist mega-cathedral, soaring raw concrete pillars rising 200 feet, narrow slits of light cutting through thick walls, lone figure dwarfed by the scale, dramatic chiaroscuro lighting, ultra-wide angle lens distortion, black and white photography aesthetic",
+      "category": "architecture",
+      "tags": [
+        "architecture",
+        "brutalist",
+        "cathedral",
+        "interior",
+        "monochrome"
+      ],
+      "isTrending": false,
+      "preview": "https://images.unsplash.com/photo-1555861496-0666c8981751?w=800"
+    },
+    {
+      "id": "prt_002",
+      "title": "Cyberpunk Street Model",
+      "prompt": "Full body fashion portrait of a model in a iridescent chrome outfit standing against a graffiti-covered wall in a neon-lit alley, futuristic streetwear, holographic makeup, dramatic backlit rim lighting, high fashion editorial, Canon R5 photorealistic quality",
+      "category": "portrait",
+      "tags": ["fashion", "cyberpunk", "model", "editorial", "futuristic"],
+      "isTrending": true,
+      "preview": "https://images.unsplash.com/photo-1469334031218-e382a71b716b?w=800"
+    },
+    {
+      "id": "fnt_002",
+      "title": "Underwater Elven City",
+      "prompt": "A breathtaking underwater elven city built inside a sunken volcanic caldera, bioluminescent coral spires, schools of exotic fish weaving through alabaster archways, shafts of filtered blue light from far above, ultra-detailed fantasy environment concept art, cinematic scale",
+      "category": "fantasy",
+      "tags": ["fantasy", "underwater", "elven", "bioluminescent", "city"],
+      "isTrending": false,
+      "preview": "https://images.unsplash.com/photo-1518020382113-a7e8fc38eac9?w=800"
+    },
+    {
+      "id": "lfs_002",
+      "title": "Rooftop Yoga at Sunrise",
+      "prompt": "A woman in a white linen outfit practicing yoga in warrior pose on a minimalist rooftop terrace, warm sunrise over a misty mountain valley below, shallow depth of field, soft natural light, serene lifestyle photography, Canon 5D Mark IV, airy and clean aesthetic",
+      "category": "lifestyle",
+      "tags": ["lifestyle", "yoga", "sunrise", "wellness", "rooftop"],
+      "isTrending": false,
+      "preview": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800"
+    }
+  ]
+}
